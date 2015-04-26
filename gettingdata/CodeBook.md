@@ -2,7 +2,7 @@
 
 ### Extracting data from files
 
-Initially, the contents of the file in the UCI HAR dataset were read into data frames with the same respective names:
+Initially, the contents of the files in the UCI HAR dataset were read into data frames with the same respective names:
 
 * activity_labels - contains the key for what each numeric activity label corresponds to
 * features - contains the names of the variables measured in each observation
