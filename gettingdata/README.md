@@ -1,0 +1,3 @@
+## Script information
+
+This repository contains a script for processing the data in the UCI HAR Dataset into a tidy form.  The data is processed with a single script, run_analysis.R.  If the "UCI HAR Dataset" folder is in the working directory, all the processing will be done simply by calling `source("run_analysis.R")`.  The script performs the manipulations outlined in CodeBook.md and generates the final tidy data set as a data frame.  This data frame can then be written to a file if desired.
